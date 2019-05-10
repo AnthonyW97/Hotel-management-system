@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><bookings>
+<booking>
+    <bookingID>19</bookingID>
+    <name>Pedro Pires</name>
+    <userID>5</userID>
+    <numGuests>3</numGuests>
+    <startDate>10/01/19</startDate>
+    <endDate>13/01/19</endDate>
+    <catered>n</catered>
+  </booking>
+<booking>
+    <bookingID>20</bookingID>
+    <name>Pedro Pires</name>
+    <userID>5</userID>
+    <numGuests>4</numGuests>
+    <startDate>13/04/19</startDate>
+    <endDate>22/04/19</endDate>
+    <catered>n</catered>
+  </booking>
+<booking>
+    <bookingID>21</bookingID>
+    <name>Anthony Williams</name>
+    <userID>1</userID>
+    <numGuests>3</numGuests>
+    <startDate>01/01/20</startDate>
+    <endDate>10/01/20</endDate>
+    <catered>n</catered>
+  </booking>
+<booking>
+    <bookingID>22</bookingID>
+    <name>Ewan Day</name>
+    <userID>4</userID>
+    <numGuests>3</numGuests>
+    <startDate>23/10/20</startDate>
+    <endDate>30/10/20</endDate>
+    <catered>n</catered>
+  </booking>
+<booking>
+    <bookingID>23</bookingID>
+    <name>Anthony Williams</name>
+    <userID>1</userID>
+    <numGuests>4</numGuests>
+    <startDate>12/12/19</startDate>
+    <endDate>20/12/19</endDate>
+    <catered>n</catered>
+  </booking>
+<booking>
+    <bookingID>24</bookingID>
+    <name>Anthony Williams</name>
+    <userID>1</userID>
+    <numGuests>4</numGuests>
+    <startDate>12/12/20</startDate>
+    <endDate>21/12/20</endDate>
+    <catered>n</catered>
+  </booking>
+<booking>
+    <bookingID>25</bookingID>
+    <name>Anthony Williams</name>
+    <userID>1</userID>
+    <numGuests>3</numGuests>
+    <startDate>12/12/12</startDate>
+    <endDate>12/12/12</endDate>
+    <catered>n</catered>
+  </booking>
+<booking>
+    <bookingID>26</bookingID>
+    <name>Anthony Williams</name>
+    <userID>1</userID>
+    <numGuests>7</numGuests>
+    <startDate>14/12/19</startDate>
+    <endDate>23/12/19</endDate>
+    <catered>n</catered>
+  </booking>
+<booking>
+    <bookingID>27</bookingID>
+    <name>Anthony Williams</name>
+    <userID>1</userID>
+    <numGuests>2</numGuests>
+    <startDate>11/06/20</startDate>
+    <endDate>22/06/20</endDate>
+    <catered>y</catered>
+  </booking>
+<booking>
+    <bookingID>28</bookingID>
+    <name>Anthony Williams</name>
+    <userID>1</userID>
+    <numGuests>2</numGuests>
+    <startDate>14/02/20</startDate>
+    <endDate>24/02/20</endDate>
+    <catered>y</catered>
+  </booking>
+<booking>
+    <bookingID>29</bookingID>
+    <name>Anthony Williams</name>
+    <userID>1</userID>
+    <numGuests>6</numGuests>
+    <startDate>12/12/19</startDate>
+    <endDate>23/12/19</endDate>
+    <catered>N</catered>
+  </booking>
+<booking>
+    <bookingID>30</bookingID>
+    <name>Pedro Pires</name>
+    <userID>5</userID>
+    <numGuests>4</numGuests>
+    <startDate>23/10/20</startDate>
+    <endDate>31/10/20</endDate>
+    <catered>n</catered>
+  </booking>
+<booking>
+    <bookingID>31</bookingID>
+    <name>Anthony Williams</name>
+    <userID>1</userID>
+    <numGuests>5</numGuests>
+    <startDate>05/01/20</startDate>
+    <endDate>15/01/20</endDate>
+    <catered>y</catered>
+  </booking>
+<booking>
+    <bookingID>32</bookingID>
+    <name>Anthony Williams</name>
+    <userID>1</userID>
+    <numGuests>3</numGuests>
+    <startDate>12/12/19</startDate>
+    <endDate>24/12/19</endDate>
+    <catered>n</catered>
+  </booking>
+</bookings>

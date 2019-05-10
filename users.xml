@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<users>
+	<user>	
+		<name>Anthony Williams</name>
+		<userID>1</userID>
+		<username>AW125</username>
+		<password>AW125</password>
+		<manager>n</manager>
+	</user>
+	<user>	
+		<name>Jamie Lau</name>
+		<userID>2</userID>
+		<username>JL259</username>
+		<password>JL259</password>
+		<manager>y</manager>
+	</user>
+	<user>	
+		<name>Robert Rainbird</name>
+		<userID>3</userID>
+		<username>RR111</username>
+		<password>RR111</password>
+		<manager>n</manager>
+	</user>
+	<user>	
+		<name>Ewan Day</name>
+		<userID>4</userID>
+		<username>ED900</username>
+		<password>ED900</password>
+		<manager>n</manager>
+	</user>
+	<user>	
+		<name>Pedro Pires</name>
+		<userID>5</userID>
+		<username>PP344</username>
+		<password>PP344</password>
+		<manager>n</manager>
+	</user>
+	<user>	
+		<name>James Marchment</name>
+		<userID>6</userID>
+		<username>JM221</username>
+		<password>JM221</password>
+		<manager>y</manager>
+	</user>
+</users>
